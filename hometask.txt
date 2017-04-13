@@ -1,0 +1,9 @@
+Advantage of function
+1.Funksiyanin birinci ustunluyu kodun uzunlugunu azaltmagdir ve bu faktor esasen yaddas yeri mehdud olan kimpyuterlere
+mikro kompyuterler kimi,daha faydalidir.
+2.Burada funkiyalari asanliqla kodaa elave elemek sehv olduqda ise oradan uzaglasdirmaq olur.
+3.Funksiya bir cox dillerde istifade olunur ve ona gorede yazilimci funksiyani yazmasi ucun ehtiyac yoxdurki yeniden
+o funksiyanin kodunu yazsin.
+4.Bu proqramlasdirmani dahda sadelesdirir. yuksek seviyyeli mentiq mesellelerinde ilk once bu sade seviyyeli funksiyalar 
+hell olunur ve sonra meseleye kecilir.
+5.Kompyuterdeki penderemizde acilan kodlar daha temiz ve yigcam gorsenir.
